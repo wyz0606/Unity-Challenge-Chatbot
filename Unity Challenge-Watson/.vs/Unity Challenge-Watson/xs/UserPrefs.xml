@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8E22F71C-7C1F-754E-CDC1-E14DAC3F1336}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Watson-core/Utilities/Runnable.cs">
+    <Files>
+      <File FileName="Assets/Watson/Examples/ExampleStreaming.cs" Line="71" Column="28" />
+      <File FileName="Assets/Watson/Examples/ExampleAssistantV1.cs" />
+      <File FileName="Assets/Scripts/Support.cs" Line="118" Column="19" />
+      <File FileName="Assets/Scripts/Cube.cs" />
+      <File FileName="Assets/Watson-core/Utilities/Runnable.cs" Line="33" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity Challenge-Watson" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6816d7ad-3673-403a-89c7-6386502267e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IBM.Cloud.SDK PreferredExecutionTarget="6816d7ad-3673-403a-89c7-6386502267e5" />
+</Properties>
